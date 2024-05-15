@@ -1,0 +1,17 @@
+button {
+    background-color: rgb(8, 71, 71) !important;
+    color: white !important;
+    padding: 3% 8% !important;
+    transition: all ;
+}
+
+button:hover{
+    background-color: rgb(72, 145, 145) !important;
+    color: black !important;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif !important;
+}
+p , h4 ,h2{
+    font-family: 'Times New Roman', Times, serif !important;
+}
